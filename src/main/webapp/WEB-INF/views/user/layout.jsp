@@ -2,7 +2,8 @@
 <%@ taglib uri="http://tiles.apache.org/tags-tiles" prefix="tiles"%>
 
 
-<!doctype html> <html>
+<!doctype html> 
+<html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -196,7 +197,8 @@
       </footer>
   </div>
   </body>
-</html>
-<script src="/detail/js/jquery-3.3.1.min.js"> </script>
+  <script src="/detail/js/jquery-3.3.1.min.js"> </script>
 <script src="/detail/js/popper.min.js" > </script>
 <script src="/detail/js/bootstrap.min.js"> </script>
+</html>
+
